@@ -1,0 +1,872 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.14)  27 OCT 2023 20:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**skripsi_uinws.tex
+(./skripsi_uinws.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (./uinwsskripsi.cls
+Document Class: uinwsskripsi 2021/02/14 v2.0 class skripsi FST UIN Walisongo Se
+marang
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/01/26 3.70 The Babel package
+\babel@savecnt=\count185
+\U@D=\dimen138
+\l@unhyphenated=\language3
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count186
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'british' set to \l@english
+(babel)             (\language0). Reported on input line 82.
+Package babel Info: Hyphen rules for 'UKenglish' set to \l@english
+(babel)             (\language0). Reported on input line 83.
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@english
+(babel)             (\language0). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@english
+(babel)             (\language0). Reported on input line 108.
+)
+
+! Package babel Error: Unknown option 'bahasa'. Either you misspelled it
+(babel)                or the language definition file bahasa.ldf was not found
+.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4254 \ProcessOptions*
+                       
+? 
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caladea/caladea.sty
+Package: caladea 2014/08/17 (Bob Tennent) Supports Caladea fonts for LaTeX, pdf
+LaTeX, luaLaTeX and xeLaTeX.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+)
+\XKV@depth=\count187
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen141
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count188
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count189
+\leftroot@=\count190
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count191
+\DOTSCASE@=\count192
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count193
+\c@MaxMatrixCols=\count194
+\dotsspace@=\muskip16
+\c@parentequation=\count195
+\dspbrk@lvl=\count196
+\tag@help=\toks20
+\row@=\count197
+\column@=\count198
+\maxfields@=\count199
+\andhelp@=\toks21
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks22
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen150
+\ar@mcellbox=\box52
+\extrarowheight=\dimen151
+\NC@list=\toks24
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box53
+)
+\TX@col@width=\dimen152
+\TX@old@table=\dimen153
+\TX@old@col=\dimen154
+\TX@target=\dimen155
+\TX@delta=\dimen156
+\TX@cols=\count266
+\TX@ftn=\toks25
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language4
+LaTeX Info: Redefining \_ on input line 43.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count267
+\c@chapter=\count268
+\c@section=\count269
+\c@subsection=\count270
+\c@subsubsection=\count271
+\c@paragraph=\count272
+\c@subparagraph=\count273
+\c@figure=\count274
+\c@table=\count275
+\abovecaptionskip=\skip52
+\belowcaptionskip=\skip53
+\bibindent=\dimen157
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip54
+\bibsep=\skip55
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count276
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/nomencl/nomencl.sty
+Package: nomencl 2021/11/10 v5.6 Nomenclature package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2021/11/13 v3.35 KOMA-Script package (handling toc-files)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+)
+\scr@dte@tocline@numberwidth=\skip56
+\scr@dte@tocline@numbox=\box54
+)
+Package tocbasic Info: setting babel extension for `nlo' on input line 187.
+Package tocbasic Info: setting babel extension for `nls' on input line 188.
+\nomlabelwidth=\dimen158
+\nom@tempdim=\dimen159
+\nomitemsep=\skip57
+)
+\@glossaryfile=\write3
+\openout3 = `skripsi_uinws.glo'.
+
+
+Writing glossary file skripsi_uinws.glo 
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen160
+\captionmargin@=\dimen161
+\captionwidth=\dimen162
+\caption@tempdima=\dimen163
+\caption@indent=\dimen164
+\caption@parindent=\dimen165
+\caption@hangindent=\dimen166
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count277
+\c@continuedfloat=\count278
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count279
+\Gm@cntv=\count280
+\c@Gm@tempcnt=\count281
+\Gm@bindingoffset=\dimen167
+\Gm@wd@mp=\dimen168
+\Gm@odd@mp=\dimen169
+\Gm@even@mp=\dimen170
+\Gm@layoutwidth=\dimen171
+\Gm@layoutheight=\dimen172
+\Gm@layouthoffset=\dimen173
+\Gm@layoutvoffset=\dimen174
+\Gm@dimlist=\toks26
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip58
+\cftbeforetoctitleskip=\skip59
+\cftaftertoctitleskip=\skip60
+\cftbeforepartskip=\skip61
+\cftpartnumwidth=\skip62
+\cftpartindent=\skip63
+\cftbeforechapskip=\skip64
+\cftchapindent=\skip65
+\cftchapnumwidth=\skip66
+\cftbeforesecskip=\skip67
+\cftsecindent=\skip68
+\cftsecnumwidth=\skip69
+\cftbeforesubsecskip=\skip70
+\cftsubsecindent=\skip71
+\cftsubsecnumwidth=\skip72
+\cftbeforesubsubsecskip=\skip73
+\cftsubsubsecindent=\skip74
+\cftsubsubsecnumwidth=\skip75
+\cftbeforeparaskip=\skip76
+\cftparaindent=\skip77
+\cftparanumwidth=\skip78
+\cftbeforesubparaskip=\skip79
+\cftsubparaindent=\skip80
+\cftsubparanumwidth=\skip81
+\cftbeforeloftitleskip=\skip82
+\cftafterloftitleskip=\skip83
+\cftbeforefigskip=\skip84
+\cftfigindent=\skip85
+\cftfignumwidth=\skip86
+\c@lofdepth=\count282
+\c@lotdepth=\count283
+\cftbeforelottitleskip=\skip87
+\cftafterlottitleskip=\skip88
+\cftbeforetabskip=\skip89
+\cfttabindent=\skip90
+\cfttabnumwidth=\skip91
+)
+
+Package tocloft Warning: lampiran has no counter for use as a `within' on input
+ line 197.
+
+\c@appendices=\count284
+\cftbeforeappendicesskip=\skip92
+\cftappendicesindent=\skip93
+\cftappendicesnumwidth=\skip94
+\c@apcdepth=\count285
+\cftbeforeapctitleskip=\skip95
+\cftafterapctitleskip=\skip96
+) (./data_skripsi.tex)
+LaTeX Font Info:    Trying to load font information for T1+Caladea-TLF on input
+ line 5.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caladea/T1Caladea-TLF.fd
+File: T1Caladea-TLF.fd 2014/08/17 (autoinst) Font definitions for T1/Caladea-TL
+F.
+)
+LaTeX Font Info:    Font shape `T1/Caladea-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 5.
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count286
+\l__pdf_internal_box=\box55
+)
+(./skripsi_uinws.aux)
+\openout1 = `skripsi_uinws.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count287
+\scratchdimen=\dimen175
+\scratchbox=\box56
+\nofMPsegments=\count288
+\nofMParguments=\count289
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count290
+\MPscratchDim=\dimen176
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
+\everyMPtoPDFconversion=\toks28
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 307.28975pt, 56.90553pt)
+* v-part:(T,H,B)=(56.9055pt, 483.69684pt, 56.90553pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=307.28975pt
+* \textheight=483.69684pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(./muka_skripsi.tex
+LaTeX Font Info:    Font shape `T1/Caladea-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 1.
+LaTeX Font Info:    Font shape `T1/Caladea-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 1.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 1.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<Logo_uin_jakarta.png, id=1, 507.8975pt x 360.34625pt>
+File: Logo_uin_jakarta.png Graphic file (type png)
+<use Logo_uin_jakarta.png>
+Package pdftex.def Info: Logo_uin_jakarta.png  used on input line 1.
+(pdftex.def)             Requested size: 126.60982pt x 98.15804pt.
+LaTeX Font Info:    Font shape `T1/Caladea-TLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 1.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Logo_uin_jakarta.png>] (
+./abstrak.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+[]\T1/Caladea-TLF/m/n/10.95 Wawasan Nu-san-tara adalah kon-sep yang mencer-mink
+an
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/10.95 kekayaan bu-daya, ker-aga-man ge-ografis, dan per-sat
+-uan dalam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/10.95 kon-sep dasar Wawasan Nu-san-tara dan menggam-barkan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/10.95 bagaimana Wawasan Nu-san-tara mem-bantu kita mema-ham
+i
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/10.95 ker-aga-man bu-daya dan ge-ografis di ne-gara ini. Ka
+mi juga
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/10.95 mem-berikan con-toh konkret ten-tang cara Wawasan Nu-
+san-tara
+ []
+
+
+Underfull \hbox (badness 8000) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/10.95 yang di-hadapi dalam men-jaga ke-ber-aga-man dan per-
+sat-uan,
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/10.95 serta upaya-upaya un-tuk mem-perkuat pema-haman Wawas
+an
+ []
+
+
+Underfull \hbox (badness 4193) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/10.95 Nu-san-tara di masyarakat. Ar-tikel ini meny-oroti pe
+nt-ingnya
+ []
+
+
+Underfull \hbox (badness 4181) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/10.95 Wawasan Nu-san-tara se-ba-gai alat pema-haman yang be
+rharga
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/10.95 ten-tang In-done-sia dan men-ga-jak pem-baca un-tuk m
+en-jaga dan
+ []
+
+)
+LaTeX Font Info:    Font shape `T1/Caladea-TLF/m/sl' in size <10.95> not availa
+ble
+(Font)              Font shape `T1/Caladea-TLF/m/it' tried instead on input lin
+e 3.
+LaTeX Font Info:    Font shape `T1/Caladea-TLF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 3.
+ [2
+
+] (./kata_pengantar.tex
+Underfull \hbox (badness 6364) in paragraph at lines 1--2
+[]\T1/Caladea-TLF/m/n/10.95 Tapi keny-ataan bagaimana-pun juga harus di-akui, b
+ahwa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/10.95 mekanika New-ton yang disokong oleh trans-for-masi Ga
+lileo
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/10.95 up-aya yang ter-bilang spek-takuler un-tuk men-damaik
+an kon-flik
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/10.95 an-tara mekanika New-ton dan per-samaan Maxwell di-la
+kukan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/10.95 keny-ataan bahwa per-cobaan-nya me-nun-jukkan bahwa e
+ther
+ []
+
+
+Underfull \hbox (badness 6876) in paragraph at lines 3--4
+\T1/Caladea-TLF/m/n/10.95 sam-pai di situ. Pada tahun 1916, ia men-gelu-arkan t
+eori
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 3--4
+\T1/Caladea-TLF/m/n/10.95 teori rel-a-tiv-i-tas umum meny-atakan bahwa grav-i-t
+asi bukan-lah
+ []
+
+
+Underfull \hbox (badness 3547) in paragraph at lines 3--4
+\T1/Caladea-TLF/m/n/10.95 gaya, melainkan meru-pakan man-i-fes-tasi ke-lengkun-
+gan ru-ang.
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 3--4
+\T1/Caladea-TLF/m/n/10.95 Ke-lengkun-gan ru-ang dipen-garuhi oleh massa, dan se
+-ba-liknya,
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 3--4
+\T1/Caladea-TLF/m/n/10.95 Galileo, teori rel-a-tiv-i-tas umum ini men-cakupi te
+ori grav-i-tasi
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 3--4
+\T1/Caladea-TLF/m/n/10.95 perge-seran merah, dll. Bahkan mungkin para fisikawan
+ tidak
+ []
+
+[3
+
+
+]
+Underfull \hbox (badness 1946) in paragraph at lines 5--7
+\T1/Caladea-TLF/m/n/10.95 bimbin-gan, mo-ti-vasi dan peran dari banyak pi-hak. 
+Se-hingga
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 17--19
+[]\T1/Caladea-TLF/m/n/10.95 Atas segala keku-ran-gan dan kelema-han dalam skrip
+si ini
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+\T1/Caladea-TLF/m/n/10.95 penulis meng-hara-p-kan saran dan kri-tik yang mem-ba
+n-gun.
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 17--19
+\T1/Caladea-TLF/m/n/10.95 Se-moga karya tulis yang seder-hana ini da-pat men-ja
+di ba-caan
+ []
+
+) [4] (./skripsi_uinws.toc)
+\tf@toc=\write4
+\openout4 = `skripsi_uinws.toc'.
+
+ [5
+
+] (./skripsi_uinws.lot
+Overfull \hbox (6.3867pt too wide) detected at line 5
+\T1/Caladea-TLF/m/n/10.95 Tabel 3.1    
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 5--5
+ [][] []\T1/Caladea-TLF/m/n/10.95 Judul tabel dile-takkan di atas berbeda 
+ []
+
+)
+\tf@lot=\write5
+\openout5 = `skripsi_uinws.lot'.
+
+ [6
+
+] (./skripsi_uinws.lof
+Overfull \hbox (18.11414pt too wide) detected at line 5
+\T1/Caladea-TLF/m/n/10.95 Gambar 3.1    
+ []
+
+)
+\tf@lof=\write6
+\openout6 = `skripsi_uinws.lof'.
+
+ [7
+
+] (./skripsi_uinws.apc
+Overfull \hbox (18.05937pt too wide) detected at line 1
+\T1/Caladea-TLF/m/n/10.95 Lampiran 1    
+ []
+
+
+Overfull \hbox (18.05937pt too wide) detected at line 2
+\T1/Caladea-TLF/m/n/10.95 Lampiran 2    
+ []
+
+)
+\tf@apc=\write7
+\openout7 = `skripsi_uinws.apc'.
+
+
+
+! Package babel Error: You haven't defined the language 'bahasa' yet.
+(babel)                Perhaps you misspelled it or your installation
+(babel)                is not complete.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \selectlanguage{bahasa}
+                           \clearpage\pagenumbering{arabic}\setcounter{page}{1}
+
+? 
+[8
+
+]) (./bab-1-skripsi.tex
+BAB I.
+
+Underfull \hbox (badness 2443) in paragraph at lines 3--4
+\T1/Caladea-TLF/m/n/10.95 Ein-stein per-tama kali (Septem-ber 1905) men-gusulka
+n bahwa
+ []
+
+[1
+
+
+]) (./bab-2-skripsi.tex [2]
+BAB II.
+
+Underfull \hbox (badness 2443) in paragraph at lines 4--5
+\T1/Caladea-TLF/m/n/10.95 Ein-stein per-tama kali (Septem-ber 1905) men-gusulka
+n bahwa
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 4--5
+\T1/Caladea-TLF/m/n/10.95 ke-la-juan ca-haya itu bergan-tung pada kerangka acua
+n in-er-sial
+ []
+
+) (./bab-3-skripsi.tex [3
+
+]
+BAB III.
+
+Underfull \hbox (badness 6364) in paragraph at lines 6--7
+[]\T1/Caladea-TLF/m/n/10.95 Tapi keny-ataan bagaimana-pun juga harus di-akui, b
+ahwa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+\T1/Caladea-TLF/m/n/10.95 mekanika New-ton yang disokong oleh trans-for-masi Ga
+lileo
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 25--26
+\T1/Caladea-TLF/m/n/10.95 per-cobaan yang di-lakukan dalam tahun 1887 den-gan h
+ipotesa
+ []
+
+<gambarcontoh.jpg, id=47, 256.96pt x 192.72pt>
+File: gambarcontoh.jpg Graphic file (type jpg)
+<use gambarcontoh.jpg>
+Package pdftex.def Info: gambarcontoh.jpg  used on input line 29.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 34--35
+\T1/Caladea-TLF/m/n/10.95 per-cobaan yang di-lakukan dalam tahun 1887 den-gan h
+ipotesa
+ []
+
+
+Underfull \hbox (badness 4303) in paragraph at lines 38--39
+[]\T1/Caladea-TLF/m/n/10.95 Namun Michelson-Morley pada akhirnya harus mener-im
+a
+ []
+
+[4
+
+]) (./bab-4-skripsi.tex [5 <./gambarcontoh.jpg>]
+BAB IV.
+
+Underfull \hbox (badness 1005) in paragraph at lines 11--12
+\T1/Caladea-TLF/m/n/10.95 per-cobaan yang di-lakukan dalam tahun 1887 den-gan h
+ipotesa
+ []
+
+) [6
+
+] (./pustaka.tex
+Underfull \hbox (badness 1430) in paragraph at lines 5--6
+[]\T1/Caladea-TLF/m/n/10.95 Levy, M. 2000. \T1/Caladea-TLF/m/it/10.95 En-vi-ron
+-men-tal scarcity and vi-o-lent con-flict: a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+\T1/Caladea-TLF/m/it/10.95 mori L) melalui per-si-lan-gan ulat sutera bi-vol-ti
+ne dan
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 9--10
+\T1/Caladea-TLF/m/it/10.95 close house\T1/Caladea-TLF/m/n/10.95 . Skripsi. Bo-g
+or: Fakul-tas Ke-dok-teran Hewan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+\T1/Caladea-TLF/m/it/10.95 gulma pe-saingnya\T1/Caladea-TLF/m/n/10.95 . Pro-sid
+-ing Kon-fer-ensi Na-sional XV
+ []
+
+) [7
+
+
+] (./lampiran-1.tex) (./lampiran-2.tex [8
+
+
+])
+
+! LaTeX Error: \begin{singlespace} on input line 2 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \end{document}
+                   
+? 
+[9
+
+] (./skripsi_uinws.aux) )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 2 (\begingroup)
+### bottom level
+(\end occurred when \iffalse on line 5 was incomplete) 
+Here is how much of TeX's memory you used:
+ 8120 strings out of 480247
+ 136751 string characters out of 5896151
+ 476063 words of memory out of 5000000
+ 25888 multiletter control sequences out of 15000+600000
+ 495879 words of font info for 60 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 125i,15n,131p,1118b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf
+-dist/fonts/enc/dvips/caladea/cld_fjy5hl.enc}</usr/share/texlive/texmf-dist/fon
+ts/type1/huerta/caladea/Caladea-Bold.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/huerta/caladea/Caladea-Italic.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/huerta/caladea/Caladea-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb>
+Output written on skripsi_uinws.pdf (17 pages, 294397 bytes).
+PDF statistics:
+ 104 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
