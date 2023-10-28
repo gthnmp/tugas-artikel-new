@@ -1,27 +1,22 @@
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{HALAMAN JUDUL}{i}{}%
-\contentsline {chapter}{KATA PENGANTAR}{iv}{}%
-\contentsline {chapter}{DAFTAR ISI}{v}{}%
-\contentsline {chapter}{DAFTAR TABEL}{vi}{}%
-\contentsline {chapter}{DAFTAR GAMBAR}{vii}{}%
-\contentsline {chapter}{DAFTAR LAMPIRAN}{viii}{}%
+\contentsline {chapter}{DAFTAR ISI}{iii}{}%
 \contentsline {chapter}{\numberline {I}PENDAHULUAN}{1}{}%
-\contentsline {section}{\numberline {A.}Latar Belakang Masalah}{1}{}%
-\contentsline {section}{\numberline {B.}Rumusan Masalah}{1}{}%
-\contentsline {section}{\numberline {C.}Tujuan Penelitian}{1}{}%
-\contentsline {section}{\numberline {D.}Manfaat Penelitian}{1}{}%
-\contentsline {chapter}{\numberline {II}LANDASAN PUSTAKA}{3}{}%
-\contentsline {section}{\numberline {A.}Contoh kutipan}{3}{}%
-\contentsline {section}{\numberline {B.}Contoh merujuk persamaan}{3}{}%
-\contentsline {chapter}{\numberline {III}Hasil Penelitian dan Pembahasan}{4}{}%
-\contentsline {section}{\numberline {A.}Contoh Pembuatan Tabel}{4}{}%
-\contentsline {section}{\numberline {B.}Contoh Menampilkan Gambar}{4}{}%
-\contentsline {section}{\numberline {C.}Contoh merujuk ke tabel dan gambar}{5}{}%
-\contentsline {chapter}{\numberline {IV}PENUTUP}{6}{}%
-\contentsline {section}{\numberline {A.}Kesimpulan}{6}{}%
-\contentsline {section}{\numberline {B.}Saran}{6}{}%
-\contentsline {chapter}{DAFTAR PUSTAKA}{7}{}%
-\contentsline {chapter}{Lampiran-lampiran}{8}{}%
+\contentsline {section}{\numberline {A.}Latar Belakang}{1}{}%
+\contentsline {section}{\numberline {B.}Rumusan Masalah}{2}{}%
+\contentsline {section}{\numberline {C.}Tujuan Artikel}{2}{}%
+\contentsline {chapter}{\numberline {II}LANDASAN PUSTAKA}{4}{}%
+\contentsline {section}{\numberline {A.}Contoh kutipan}{4}{}%
+\contentsline {section}{\numberline {B.}Contoh merujuk persamaan}{4}{}%
+\contentsline {chapter}{\numberline {III}Hasil Penelitian dan Pembahasan}{5}{}%
+\contentsline {section}{\numberline {A.}Contoh Pembuatan Tabel}{5}{}%
+\contentsline {section}{\numberline {B.}Contoh Menampilkan Gambar}{5}{}%
+\contentsline {section}{\numberline {C.}Contoh merujuk ke tabel dan gambar}{6}{}%
+\contentsline {chapter}{\numberline {IV}PENUTUP}{7}{}%
+\contentsline {section}{\numberline {A.}Kesimpulan}{7}{}%
+\contentsline {section}{\numberline {B.}Saran}{7}{}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{8}{}%
+\contentsline {chapter}{Lampiran-lampiran}{9}{}%
 \global \c@tocdepth -1\relax 
-\contentsline {section}{\numberline {A.}ini}{8}{}%
-\contentsline {section}{\numberline {B.}itu}{8}{}%
+\contentsline {section}{\numberline {A.}ini}{9}{}%
+\contentsline {section}{\numberline {B.}itu}{9}{}%

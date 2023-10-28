@@ -770,7 +770,7 @@ Jurusan/Program Studi & : & \@jurusan / \@prodi
 %} 
 %\def\endabstractind{
    \input{\@fileabstrak}
-% \vspace{0.3cm}\noindent\textbf{\emph{Kata kunci}} : \@katakunci\par\vfil\null\end{singlespace}%
+\vspace{0.3cm}\noindent\textbf{\emph{Kata kunci}} : \@katakunci\par\vfil\null\end{singlespace}%
 }
 
 \AtBeginDocument{%
