@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.14)  28 OCT 2023 09:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.14)  28 OCT 2023 11:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -209,8 +209,8 @@ LaTeX Info: Redefining \_ on input line 43.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count267
 \c@chapter=\count268
@@ -355,7 +355,7 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 )
 
 Package tocloft Warning: lampiran has no counter for use as a `within' on input
- line 197.
+ line 201.
 
 \c@appendices=\count284
 \cftbeforeappendicesskip=\skip92
@@ -373,7 +373,7 @@ File: T1Caladea-TLF.fd 2014/08/17 (autoinst) Font definitions for T1/Caladea-TL
 F.
 )
 LaTeX Font Info:    Font shape `T1/Caladea-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 5.
+(Font)              scaled to size 12.0pt on input line 5.
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
@@ -442,12 +442,12 @@ Package caption Info: End \AtBeginDocument code.
 * \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
 * \marginparwidth=4.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -459,103 +459,62 @@ Package caption Info: End \AtBeginDocument code.
 
 (./muka_skripsi.tex
 LaTeX Font Info:    Font shape `T1/Caladea-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 1.
+(Font)              scaled to size 14.4pt on input line 2.
 LaTeX Font Info:    Font shape `T1/Caladea-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 1.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 1.
-
- (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-<Logo_uin_jakarta.png, id=1, 507.8975pt x 360.34625pt>
-File: Logo_uin_jakarta.png Graphic file (type png)
-<use Logo_uin_jakarta.png>
-Package pdftex.def Info: Logo_uin_jakarta.png  used on input line 1.
-(pdftex.def)             Requested size: 126.60982pt x 98.15804pt.
-LaTeX Font Info:    Font shape `T1/Caladea-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 1.
- [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Logo_uin_jakarta.png>] (
-./abstrak.tex
-Underfull \hbox (badness 1043) in paragraph at lines 1--2
-[]\T1/Caladea-TLF/m/n/10.95 Wawasan Nu-san-tara adalah kon-sep dasar yang men-d
-orong
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
-\T1/Caladea-TLF/m/n/10.95 pema-haman dan ke-sadaran ter-hadap ke-ber-aga-man bu
--daya,
- []
-
-
-Underfull \hbox (badness 1270) in paragraph at lines 1--2
-\T1/Caladea-TLF/m/n/10.95 ge-ografi, dan sum-ber daya alam yang me-limpah di In
--done-sia,
- []
-
-
-Underfull \hbox (badness 3769) in paragraph at lines 1--2
-\T1/Caladea-TLF/m/n/10.95 kedaula-tan, dan in-tegri-tas wilayah, serta men-jali
-n hubun-gan
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
-\T1/Caladea-TLF/m/n/10.95 na-sional In-done-sia. Pema-haman kon-sep ini mem-per
-kuat
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
-\T1/Caladea-TLF/m/n/10.95 na-sion-al-isme, menghor-mati ker-aga-man bu-daya, me
-n-dorong
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
-\T1/Caladea-TLF/m/n/10.95 kerja sama antar-masyarakat, dan pe-lestar-ian lingku
-n-gan.
- []
-
-
-Underfull \hbox (badness 2495) in paragraph at lines 1--2
-\T1/Caladea-TLF/m/n/10.95 ini, men-cip-takan tan-ta-n-gan dalam men-ca-pai tu-j
-uan ke-sat-uan,
- []
-
-)
-LaTeX Font Info:    Font shape `T1/Caladea-TLF/b/it' will be
+(Font)              scaled to size 14.4pt on input line 2.
+LaTeX Font Info:    Font shape `T1/Caladea-TLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 2.
-
-Underfull \hbox (badness 2221) in paragraph at lines 2--2
-\T1/Caladea-TLF/b/it/10.95 Kata kunci \T1/Caladea-TLF/m/n/10.95 : Wawasan Nu-sa
-n-tara, In-done-sia, Per-sat-uan dan
+LaTeX Font Info:    Font shape `T1/Caladea-TLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 2.
+ (./abstrak.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+[]\T1/Caladea-TLF/m/n/12 Wawasan Nu-san-tara adalah kon-sep dasar yang
  []
 
-LaTeX Font Info:    Font shape `T1/Caladea-TLF/m/sl' in size <10.95> not availa
-ble
-(Font)              Font shape `T1/Caladea-TLF/m/it' tried instead on input lin
-e 4.
-LaTeX Font Info:    Font shape `T1/Caladea-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 4.
-[2
 
-] (./skripsi_uinws.toc)
-\tf@toc=\write4
-\openout4 = `skripsi_uinws.toc'.
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/12 men-dorong pema-haman dan ke-sadaran ter-hadap
+ []
 
+
+Underfull \hbox (badness 4846) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/12 ke-ber-aga-man bu-daya, ge-ografi, dan sum-ber daya alam
+
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/12 yang me-limpah di In-done-sia, dike-nal se-ba-gai Nu-san
+-tara.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/12 wilayah, serta men-jalin hubun-gan har-mo-nis den-gan
+ []
+
+
+Underfull \hbox (badness 6978) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/12 negara-negara tetangga. Wawasan Nu-san-tara men-jadi
+ []
+
+
+Underfull \hbox (badness 6526) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/12 lan-dasan ke-bi-jakan luar negeri dan visi pem-ban-gu-na
+n
+ []
+
+
+Underfull \hbox (badness 4608) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/n/12 ke-sat-uan, kedaula-tan, dan pem-ban-gu-nan na-sional ya
+ng
+ []
+
+)
+LaTeX Font Info:    Font shape `T1/Caladea-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 2.
+LaTeX Font Info:    Font shape `T1/Caladea-TLF/b/it' will be
+(Font)              scaled to size 12.0pt on input line 2.
 
 
 ! Package babel Error: You haven't defined the language 'bahasa' yet.
@@ -570,254 +529,230 @@ l.8 \selectlanguage{bahasa}
                            \clearpage\pagenumbering{arabic}\setcounter{page}{1}
 
 ? 
-[3
+LaTeX Font Info:    Font shape `T1/Caladea-TLF/m/sl' in size <12> not available
 
-]) (./bab-1-skripsi.tex
-BAB I.
+(Font)              Font shape `T1/Caladea-TLF/m/it' tried instead on input lin
+e 8.
+LaTeX Font Info:    Font shape `T1/Caladea-TLF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 8.
+[1
 
-Underfull \hbox (badness 1226) in paragraph at lines 3--4
-\T1/Caladea-TLF/m/n/10.95 pent-ingnya pema-haman dan ke-sadaran ter-hadap ke-be
-r-aga-man
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./bab-1-skripsi.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+[]\T1/Caladea-TLF/m/n/12 Wawasan Nu-san-tara adalah kon-sep dasar yang
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
-\T1/Caladea-TLF/m/n/10.95 bu-daya, ge-ografi, serta sum-ber daya alam yang me-l
-impah
+\T1/Caladea-TLF/m/n/12 me-man-dang pent-ingnya pema-haman dan ke-sadaran
  []
 
 
-Underfull \hbox (badness 6575) in paragraph at lines 3--4
-\T1/Caladea-TLF/m/n/10.95 di wilayah In-done-sia yang luas, dike-nal se-ba-gai 
-Nu-san-tara.
+Underfull \hbox (badness 6859) in paragraph at lines 3--4
+\T1/Caladea-TLF/m/n/12 ter-hadap ke-ber-aga-man bu-daya, ge-ografi, serta sum-b
+er
  []
 
 
-Underfull \hbox (badness 2393) in paragraph at lines 3--4
-\T1/Caladea-TLF/m/n/10.95 ke-bi-jakan luar negeri In-done-sia, melainkan juga m
-en-jadi visi
+Underfull \hbox (badness 7814) in paragraph at lines 3--4
+\T1/Caladea-TLF/m/n/12 daya alam yang me-limpah di wilayah In-done-sia yang
  []
 
 
-Underfull \hbox (badness 3547) in paragraph at lines 5--6
-\T1/Caladea-TLF/m/n/10.95 men-jaga per-sat-uan dan kedaula-tan In-done-sia se-b
-a-gai ne-gara
+Underfull \hbox (badness 1237) in paragraph at lines 3--4
+\T1/Caladea-TLF/m/n/12 luas, dike-nal se-ba-gai Nu-san-tara. Kon-sep ini men-do
+rong
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-\T1/Caladea-TLF/m/n/10.95 rasa na-sion-al-isme, menghor-mati ker-aga-man bu-day
-a, serta
+Underfull \hbox (badness 4242) in paragraph at lines 3--4
+\T1/Caladea-TLF/m/n/12 kedaula-tan, serta in-tegri-tas wilayah, sekali-gus men-
+jalin
  []
 
 
-Underfull \hbox (badness 5403) in paragraph at lines 5--6
-\T1/Caladea-TLF/m/n/10.95 alam se-cara berke-lan-ju-tan dan pe-lestar-ian lingk
-un-gan, yang
+Underfull \hbox (badness 7832) in paragraph at lines 3--4
+\T1/Caladea-TLF/m/n/12 hubun-gan har-mo-nis den-gan negara-negara tetangga di
  []
 
 
-Underfull \hbox (badness 2837) in paragraph at lines 5--6
-\T1/Caladea-TLF/m/n/10.95 mem-bantu kita dalam men-dukung ke-bi-jakan pe-mer-in
--tah dan
+Underfull \hbox (badness 1270) in paragraph at lines 3--4
+\T1/Caladea-TLF/m/n/12 kawasan ini. Wawasan Nu-san-tara bukan hanya men-jadi
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 5--6
+\T1/Caladea-TLF/m/n/12 mem-perkuat rasa na-sion-al-isme, menghor-mati ker-aga-m
+an
+ []
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 5--6
+\T1/Caladea-TLF/m/n/12 pe-lestar-ian lingkun-gan, yang men-jadi rel-e-van dalam
+ era
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 7--8
-\T1/Caladea-TLF/m/n/10.95 In-done-sia se-cara lebih dekat. Gagasan ini mencer-m
-inkan
+[]\T1/Caladea-TLF/m/n/12 Namun, masih banyak orang yang belum ter-lalu
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 7--8
+\T1/Caladea-TLF/m/n/12 belum men-ge-nal In-done-sia se-cara lebih dekat. Gagasa
+n
+ []
+
+
+Underfull \hbox (badness 2828) in paragraph at lines 7--8
+\T1/Caladea-TLF/m/n/12 ini mencer-minkan tan-ta-n-gan yang muncul dalam up-aya
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 7--8
-\T1/Caladea-TLF/m/n/10.95 tan-ta-n-gan yang muncul dalam up-aya mem-pro-mosikan
-
+\T1/Caladea-TLF/m/n/12 mem-pro-mosikan pema-haman dan ke-sadaran ter-hadap
  []
 
 
-Underfull \hbox (badness 7907) in paragraph at lines 7--8
-\T1/Caladea-TLF/m/n/10.95 pen-ca-pa-ian tu-juan ke-sat-uan, kedaula-tan, dan pe
-m-ban-gu-nan
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+\T1/Caladea-TLF/m/n/12 pada gili-ran-nya da-pat meng-ham-bat pen-ca-pa-ian tu-j
+uan
+ []
+
+
+Underfull \hbox (badness 4608) in paragraph at lines 7--8
+\T1/Caladea-TLF/m/n/12 ke-sat-uan, kedaula-tan, dan pem-ban-gu-nan na-sional ya
+ng
  []
 
 [1
 
+]) (./bab-2-skripsi.tex
 
-]
-Underfull \hbox (badness 1776) in paragraph at lines 11--12
-[]\T1/Caladea-TLF/m/n/10.95 Bagaimana kon-sep Wawasan Nu-san-tara da-pat di-je-
-laskan
+Package natbib Warning: Citation `arikunto2002' on page 2 undefined on input li
+ne 2.
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 2--3
+\T1/Caladea-TLF/m/n/12 bahwa ke-la-juan ca-haya adalah SAMA di se-tiap kerangka
+
  []
 
 
-Underfull \hbox (badness 1721) in paragraph at lines 12--13
-\T1/Caladea-TLF/m/n/10.95 mem-pro-mosikan pema-haman ter-hadap kon-sep Wawasan
+Underfull \hbox (badness 1014) in paragraph at lines 2--3
+\T1/Caladea-TLF/m/n/12 bin-gung, skep-tis, bahkan mungkin ada yang mele-cehkan.
+
  []
 
 
-Underfull \hbox (badness 4913) in paragraph at lines 13--14
-\T1/Caladea-TLF/m/n/10.95 Nu-san-tara da-pat berkon-tribusi pada pen-ca-pa-ian 
-tu-juan
+Underfull \hbox (badness 6893) in paragraph at lines 2--3
+\T1/Caladea-TLF/m/n/12 New-ton berdiri tegak dan kokoh (se-ba-ga-ian fisikawan
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-[]\T1/Caladea-TLF/m/n/10.95 Menguraikan kon-sep Wawasan Nu-san-tara se-cara
+Underfull \hbox (badness 4505) in paragraph at lines 2--3
+\T1/Caladea-TLF/m/n/12 mungkin ada yang men-gang-gap bahwa teori ini su-dah
+ []
+
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 4.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [2])
+(./bab-3-skripsi.tex
+Underfull \hbox (badness 8113) in paragraph at lines 22--2
+[]\T1/Caladea-TLF/m/n/12 Ini con-toh meru-juk per-samaan di atas. Menu-rut
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-\T1/Caladea-TLF/m/n/10.95 kom-pre-hen-sif se-ba-gai sarana un-tuk lebih mema-ha
-mi
+Underfull \hbox (badness 2302) in paragraph at lines 10--10
+[][]|\T1/Caladea-TLF/m/n/12 Judul tabel dile-takkan di atas berbeda den-gan
  []
 
 
-Underfull \hbox (badness 3780) in paragraph at lines 18--19
-\T1/Caladea-TLF/m/n/10.95 In-done-sia, ter-ma-suk aspek-aspek bu-daya, ge-ograf
-i, dan
+Underfull \hbox (badness 2856) in paragraph at lines 25--26
+[]\T1/Caladea-TLF/m/n/12 Sebagai salah satu up-aya yang ter-bilang spek-takuler
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-\T1/Caladea-TLF/m/n/10.95 sum-ber daya alam yang memen-garuhi iden-ti-tas dan
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+\T1/Caladea-TLF/m/n/12 un-tuk men-damaikan kon-flik an-tara mekanika New-ton
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-[]\T1/Caladea-TLF/m/n/10.95 Menganalisis ham-batan dan tan-ta-n-gan yang di-had
-api
+Underfull \hbox (badness 4454) in paragraph at lines 25--26
+\T1/Caladea-TLF/m/n/12 dan per-samaan Maxwell di-lakukan oleh Michel-son dan
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-\T1/Caladea-TLF/m/n/10.95 dalam up-aya mem-pro-mosikan pema-haman ter-hadap
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+\T1/Caladea-TLF/m/n/12 Mor-ley melalui serangka-ian per-cobaan yang di-lakukan
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-\T1/Caladea-TLF/m/n/10.95 menya-jikan so-lusi atau rekomen-dasi un-tuk men-gata
-si
+Underfull \hbox (badness 1983) in paragraph at lines 25--26
+\T1/Caladea-TLF/m/n/12 usu-lan Ein-stein terse-but yang kini dike-nal se-ba-gai
+ teori
  []
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-[]\T1/Caladea-TLF/m/n/10.95 Menjelaskan bagaimana pema-haman yang lebih baik
- []
-
-
-Underfull \hbox (badness 2065) in paragraph at lines 20--21
-\T1/Caladea-TLF/m/n/10.95 na-sional In-done-sia, den-gan mer-inci man-faat yang
- da-pat
- []
-
-) (./bab-2-skripsi.tex [3]
-BAB II.
-
-Underfull \hbox (badness 2443) in paragraph at lines 4--5
-\T1/Caladea-TLF/m/n/10.95 Ein-stein per-tama kali (Septem-ber 1905) men-gusulka
-n bahwa
- []
-
-
-Underfull \hbox (badness 2181) in paragraph at lines 4--5
-\T1/Caladea-TLF/m/n/10.95 ke-la-juan ca-haya itu bergan-tung pada kerangka acua
-n in-er-sial
- []
-
-) (./bab-3-skripsi.tex [4
-
-]
-BAB III.
-
-Underfull \hbox (badness 6364) in paragraph at lines 6--7
-[]\T1/Caladea-TLF/m/n/10.95 Tapi keny-ataan bagaimana-pun juga harus di-akui, b
-ahwa
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
-\T1/Caladea-TLF/m/n/10.95 mekanika New-ton yang disokong oleh trans-for-masi Ga
-lileo
- []
-
-
-Underfull \hbox (badness 1005) in paragraph at lines 25--26
-\T1/Caladea-TLF/m/n/10.95 per-cobaan yang di-lakukan dalam tahun 1887 den-gan h
-ipotesa
- []
-
-<gambarcontoh.jpg, id=36, 256.96pt x 192.72pt>
+[3]
+<gambarcontoh.jpg, id=23, 256.96pt x 192.72pt>
 File: gambarcontoh.jpg Graphic file (type jpg)
 <use gambarcontoh.jpg>
 Package pdftex.def Info: gambarcontoh.jpg  used on input line 29.
 (pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 2856) in paragraph at lines 34--35
+[]\T1/Caladea-TLF/m/n/12 Sebagai salah satu up-aya yang ter-bilang spek-takuler
 
-
-Underfull \hbox (badness 1005) in paragraph at lines 34--35
-\T1/Caladea-TLF/m/n/10.95 per-cobaan yang di-lakukan dalam tahun 1887 den-gan h
-ipotesa
- []
-
-[5
-
-]
-Underfull \hbox (badness 4303) in paragraph at lines 38--39
-[]\T1/Caladea-TLF/m/n/10.95 Namun Michelson-Morley pada akhirnya harus mener-im
-a
- []
-
-) (./bab-4-skripsi.tex [6 <./gambarcontoh.jpg>]
-BAB IV.
-
-Underfull \hbox (badness 1005) in paragraph at lines 11--12
-\T1/Caladea-TLF/m/n/10.95 per-cobaan yang di-lakukan dalam tahun 1887 den-gan h
-ipotesa
- []
-
-) [7
-
-] (./pustaka.tex
-Underfull \hbox (badness 1430) in paragraph at lines 5--6
-[]\T1/Caladea-TLF/m/n/10.95 Levy, M. 2000. \T1/Caladea-TLF/m/it/10.95 En-vi-ron
--men-tal scarcity and vi-o-lent con-flict: a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-\T1/Caladea-TLF/m/it/10.95 mori L) melalui per-si-lan-gan ulat sutera bi-vol-ti
-ne dan
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+[]\T1/Caladea-TLF/m/n/12 Namun Michelson-Morley pada akhirnya harus
  []
 
 
-Underfull \hbox (badness 2277) in paragraph at lines 9--10
-\T1/Caladea-TLF/m/it/10.95 close house\T1/Caladea-TLF/m/n/10.95 . Skripsi. Bo-g
-or: Fakul-tas Ke-dok-teran Hewan
+Underfull \hbox (badness 2334) in paragraph at lines 38--39
+\T1/Caladea-TLF/m/n/12 mener-ima keny-ataan bahwa per-cobaan-nya me-nun-jukkan
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
-\T1/Caladea-TLF/m/it/10.95 gulma pe-saingnya\T1/Caladea-TLF/m/n/10.95 . Pro-sid
--ing Kon-fer-ensi Na-sional XV
+[4 <./gambarcontoh.jpg>]) [5] (./pustaka.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+\T1/Caladea-TLF/m/it/12 Nu-san-tara Se-ba-gai Sarana dalam Meningkatkan
  []
 
-) [8
+)
+
+Package natbib Warning: There were undefined citations.
+
+[6
 
 
-] (./lampiran-1.tex) (./lampiran-2.tex [9
+] (./skripsi_uinws.aux)
 
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-]) [10
-
-] (./skripsi_uinws.aux) )
+ )
 (\end occurred when \iffalse on line 5 was incomplete) 
 Here is how much of TeX's memory you used:
- 8100 strings out of 480247
- 136456 string characters out of 5896151
- 474128 words of memory out of 5000000
- 25878 multiletter control sequences out of 15000+600000
- 500371 words of font info for 62 fonts, out of 8000000 for 9000
+ 8048 strings out of 480247
+ 135492 string characters out of 5896151
+ 470979 words of memory out of 5000000
+ 25837 multiletter control sequences out of 15000+600000
+ 508039 words of font info for 65 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  125i,15n,131p,832b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf
@@ -826,15 +761,15 @@ ts/type1/huerta/caladea/Caladea-Bold.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/huerta/caladea/Caladea-BoldItalic.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/huerta/caladea/Caladea-Italic.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/huerta/caladea/Caladea-Regular.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+pe1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+sfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb>
-Output written on skripsi_uinws.pdf (13 pages, 302604 bytes).
+Output written on skripsi_uinws.pdf (7 pages, 256690 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
+ 75 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,6 +1,5 @@
 \babel@toc {english}{}\relax 
-\contentsline {chapter}{HALAMAN JUDUL}{i}{}%
-\contentsline {chapter}{DAFTAR ISI}{iii}{}%
+\contentsline {chapter}{DAFTAR ISI}{2}{}%
 \contentsline {chapter}{\numberline {I}PENDAHULUAN}{1}{}%
 \contentsline {section}{\numberline {A.}Latar Belakang}{1}{}%
 \contentsline {section}{\numberline {B.}Rumusan Masalah}{2}{}%

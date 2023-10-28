@@ -33,7 +33,7 @@
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{report}}
 \ExecuteOptions{skripsi,satusetengahspasi,indonesia}
 \ProcessOptions
-\LoadClass[a5paper,11pt,openright]{report}
+\LoadClass[a5paper,12pt,openright]{report}
 
 %-----------------------------------------------------
 % Setting bibliografi
@@ -106,7 +106,7 @@
 \setcounter{secnumdepth}{3}
 \renewcommand \thepart {\@Roman\c@part}
 \renewcommand \thechapter {\@Roman\c@chapter}
-\renewcommand \thesection {\@Alph\c@section.}
+\renewcommand \thesection {\@arabic\c@section.}
 \renewcommand\thesubsection   {\@arabic\c@subsection.}
 \renewcommand\thesubsubsection{\@alph\c@subsubsection.}\renewcommand\appendix{\par
   \setcounter{chapter}{0}%
@@ -155,6 +155,7 @@
 \def\listtablename{DAFTAR TABEL}%
 \def\listappendixname{DAFTAR LAMPIRAN}%
 \def\nomenclaturename{DAFTAR LAMBANG DAN SINGKATAN}%
+\def\articlename{WAWASAN NUSANTARA SEBAGAI SARANA UNTUK MENGENAL INDONESIA}%
 \def\abstractname{ABSTRAK}%
 \def\partname{BAGIAN}%
 \def\chaptername{BAB}%
@@ -175,6 +176,9 @@
 \def\listtablename{DAFTAR TABEL}%
 \def\listappendixname{DAFTAR LAMPIRAN}%
 \def\nomenclaturename{DAFTAR LAMBANG DAN SINGKATAN}%
+\def\articlename{WAWASAN NUSANTARA SEBAGAI SARANA UNTUK MENGENAL INDONESIA}%
+\def\creator{Ibrahim Pasya Arvianto}
+\def\studi{Fakultas Sains Dan Teknologi}
 \def\abstractname{ABSTRAK}%
 \def\partname{BAGIAN}%
 \def\chaptername{BAB}%
@@ -387,274 +391,6 @@
 }  
 
 %------------------------------------------------------------
-%Approval Page
-%------------------------------------------------------------
-\def\halamanpengesahan{%
-   \setlength{\topmargin}{-2.2cm}
-  %\setlength{\oddsidemargin}{1.0cm}
-  %\setlength{\evensidemargin}{1.0cm}  
-   %\thispagestyle{empty}
-    %
-   %\setlength{\topmargin}{-2.5cm}
-   % {\color{blue}
-    \cleardoublepage\newpage\thispagestyle{empty}
-    %\setlength{\headheight}{0pt}
-    %\setlength{\voffset}{-2.2cm}
-    %\setlength{\hoffset}{-1cm}
-    %\setlength{\oddsidemargin}{1.0cm}
-    %\setlength{\evensidemargin}{1.0cm}
- \begin{singlespace} 
- \noindent
- \begin{minipage}[c]{2cm}
- \includegraphics[width=1.2cm,height=2cm]{Logo_uin_walisongo.png}
- \end{minipage}
-\begin{minipage}[c]{.8\textwidth}
-\begin{center}
-{\normalfont
-KEMENTERIAN AGAMA R.I.\\
-UNIVERSITAS ISLAM NEGERI WALISONGO\\
-\textbf{FAKULTAS SAINS DAN TEKNOLOGI}\\
-Jl. Prof. Dr. Hamka (Kampus II) Ngaliyan Semarang\\
-Telp. 024-7601295 Fax. 7615387}
-\end{center}
-\end{minipage}
-
-\noindent
-\hrulefill
-\hrulefill
-
-{\centering\textbf{PENGESAHAN}\par}
-
-\noindent Naskah skripsi berikut ini :\vspace{0.1cm}
-
-\noindent
-\begin{tabularx}{\linewidth}{@{}lcp{8.5cm}@{}}
-Judul & : & \textbf{\@titleind} \\
-Penulis & : & \@fullname \\
-NIM & : & \@idnum \\
-Jurusan & : & \@jurusan \\
-%Program Studi & : & \@prodi
-\end{tabularx}\vspace{0.1cm}
-
-\noindent Telah diujikan dalam sidang \textit{tugas akhir} oleh Dewan Penguji \@faculty  UIN Walisongo dan dapat diterima sebagai salah satu syarat memperoleh gelar sarjana dalam Ilmu \@prodi.
-
-\hspace{5.5cm} \@city, \@tanggalpengesahan
-%\vfill
-\begin{center}
-DEWAN PENGUJI
-\end{center}
-
-\noindent
-\begin{minipage}[c]{0.48\textwidth}
-\begin{center}
-Penguji I,\\[1cm]
-\textbf{\@pengujipertama}\\[0pt]
-NIP : \@nippengujipertama\\[.1cm]
-Penguji III,\\[1cm]
-\textbf{\@pengujiketiga}\\
-NIP : \@nippengujiketiga\\[.1cm]
-Pembimbing I,\\[1cm]
-\textbf{\@pembimbingpertama}\\
-NIP : \@nippembimbingpertama
-\end{center}
-\end{minipage}\hfill
-\begin{minipage}[c]{0.48\textwidth}
-\begin{center}
- Penguji II,\\[1cm]
- \textbf{\@pengujikedua}\\
-NIP : \@nippengujikedua\\[.1cm]
-Penguji IV,\\[1cm]
-\textbf{\@pengujikeempat}\\
-NIP : \@nippengujikeempat\\[.1cm]
-Pembimbing II,\\[1cm]
-\textbf{\@pembimbingkedua}\\
-NIP : \@nippembimbingkedua
-\end{center}
-\end{minipage}
-
-\end{singlespace}
-
-\addcontentsline{toc}{chapter}{PENGESAHAN}
-
-}
-
-%------------------------------------------------------------
-%Halaman Nota Pembimbing I
-%------------------------------------------------------------
-\def\halamannotabimbingsatu{%
-   %\setlength{\topmargin}{-2.2cm}
-  %\setlength{\oddsidemargin}{1.0cm}
-  %\setlength{\evensidemargin}{1.0cm}  
-   %\thispagestyle{empty}
-    %
-   %\setlength{\topmargin}{-2.2cm}
-   % {\color{blue}
-    \cleardoublepage\newpage\thispagestyle{empty}
-    %\setlength{\headheight}{0pt}
-    %\setlength{\voffset}{-2.0cm}
-    %\setlength{\hoffset}{-1cm}
-    %\setlength{\oddsidemargin}{1.0cm}
-    %\setlength{\evensidemargin}{1.0cm}
- \begin{singlespace} 
- \begin{center}\textbf{NOTA DINAS}\end{center}  
- 
- \hfill Semarang, \@tanggalnotabimbingsatu\\[1cm]
- %Kepada\\
- Yth. Ketua Program Studi \@prodi\\
- \@faculty\\	 
- UIN Walisongo Semarang\\[.5cm]
- \noindent\textit{Assalamu'alaikum warahmatullahi wabarakatuh}\\[.5cm]
- Dengan ini diberitahukan bahwa saya telah melakukan bimbingan, arahan dan koreksi naskah skripsi dengan:\\[.2cm]
-\noindent
-\begin{tabularx}{\textwidth}{@{}lcp{8.5cm}}
-Judul & : & \@titleind\\
-Nama  & : & \@fullname\\
-NIM   & : & \@idnum\\
-Jurusan & : & \@jurusan\\
-%Program Studi & : & \@prodi\\
-\end{tabularx}
-
-\vspace{.2cm}
-\noindent Saya memandang bahwa naskah skripsi tersebut sudah dapat diajukan kepada Fakultas Sains dan Teknologi UIN Walisongo untuk diujikan dalam Sidang Munaqasyah.\\
-
-\noindent\textit{Wassalamu'alaikum warahmatullahi wabarakatuh}\\[1cm]
-
-\begin{tabular}{p{4.5cm}c}
-& Pembimbing I,\\
-& \\
-& \\
-& \\
-& \textbf{\@pembimbingpertama}\\
-& NIP : \@nippembimbingpertama
-\end{tabular}
-
- \end{singlespace}
- \addcontentsline{toc}{chapter}{NOTA PEMBIMBING I}
-
-}
-%------------------------------------------------------------
-%Halaman Nota Pembimbing II
-%------------------------------------------------------------
-\def\halamannotabimbingdua{%
-   %\setlength{\topmargin}{-2.2cm}
-  %\setlength{\oddsidemargin}{1.0cm}
-  %\setlength{\evensidemargin}{1.0cm}  
-   %\thispagestyle{empty}
-    %
-   %\setlength{\topmargin}{-2.2cm}
-   % {\color{blue}
-    \cleardoublepage\newpage\thispagestyle{empty}
-    %\setlength{\headheight}{0pt}
-    %\setlength{\voffset}{-2.0cm}
-    %\setlength{\hoffset}{-1cm}
-    %\setlength{\oddsidemargin}{1.0cm}
-    %\setlength{\evensidemargin}{1.0cm}
- \begin{singlespace} 
- \begin{center} \textbf{NOTA DINAS}\end{center}
- 
- \hfill Semarang, \@tanggalnotabimbingdua\\[1cm]
- %Kepada\\
- Yth. Ketua Program Studi \@prodi\\
- \@faculty \\
- UIN Walisongo Semarang\\[.5cm]
- \noindent\textit{Assalamu'alaikum warahmatullahi wabarakatuh}\\[.5cm]
- Dengan ini diberitahukan bahwa saya telah melakukan bimbingan, arahan dan koreksi naskah skripsi dengan:\\[.2cm]
-\noindent
-\begin{tabularx}{\textwidth}{@{}lcp{8.5cm}@{}}
-Judul & : & \@titleind\\
-Nama  & : & \@fullname\\
-NIM   & : & \@idnum\\
-Jurusan & : & \@jurusan\\
-%Program Studi & : & \@prodi\\
-\end{tabularx}
-
-\vspace{.2cm}
-\noindent Saya memandang bahwa naskah skripsi tersebut sudah dapat diajukan kepada \@faculty UIN Walisongo untuk diujikan dalam Sidang Munaqasyah.\\
-
-\noindent\textit{Wassalamu'alaikum warahmatullahi wabarakatuh}\\[1cm]
-
-\begin{tabular}{p{4.5cm}c}
-& Pembimbing II,\\
-& \\
-& \\
-& \\
-& \textbf{\@pembimbingkedua}\\
-& NIP : \@nippembimbingkedua
-\end{tabular}
-
- \end{singlespace}
- \addcontentsline{toc}{chapter}{NOTA PEMBIMBING II}
- 
-}
-%------------------------------------------------------------
-% Halaman Pernyataan
-%------------------------------------------------------------
-\def\halamanpernyataan{%
-  \cleardoublepage\newpage\thispagestyle{empty}%
-   \setlength{\voffset}{0cm}
-   %\setlength{\hoffset}{0cm}
-   %\setlength{\headheight}{12pt}
-   %\setlength{\topmargin}{-0.9cm}
-   %\setlength{\oddsidemargin}{1.46cm}
-   %\setlength{\evensidemargin}{1.46cm}
-    \begin{singlespace} 
-  \begin{center}
-  {\normalfont\large\bfseries\expandafter{PERNYATAAN KEASLIAN}}
-  \par\nobreak
-  \end{center}
-  \vspace{0.5cm}
-\noindent Yang bertanda tangan di bawah ini :\\[.4cm]
-\noindent\begin{tabular}{lcl}
-Nama & : &\@fullname \\
-NIM  & : & \@idnum \\
-Jurusan/Program Studi & : & \@jurusan / \@prodi
-\end{tabular}
-
-\vspace{0.4cm}    
-\noindent menyatakan bahwa skripsi yang berjudul :
-
-{\begin{center}\MakeUppercase{\normalfont\bfseries\@titleind}\end{center}}
-
-\noindent secara keseluruhan adalah hasil penelitian/karya saya sendiri, kecuali bagian tertentu yang dirujuk sumbernya. 
-
-\vspace{1.5cm}
-\begin{tabular}{p{4.5cm}c}
-&\@city,\space\@tanggalpernyataankeaslian\\
-&Pembuat pernyataan,\\
-&\\
-&\\
-&\\
-&\\
-&\\
-&\\
-&\space\@fullname\\
-& NIM :\space\@idnum
-\end{tabular}
-\vfill
- \end{singlespace} 
-\addcontentsline{toc}{chapter}{PERNYATAAN KEASLIAN}
-
-}
-
-%------------------------------------------------------------
-% Halaman Persembahan
-%------------------------------------------------------------
-\def\acknowledment{%
-  \cleardoublepage\thispagestyle{chapterheading}%
-\null\vfill%Force the content of acknowledment to bottom page 
-\addcontentsline{toc}{chapter}{Halaman Persembahan}
-}
-
-%------------------------------------------------------------
-% Motto
-%------------------------------------------------------------
-\def\motto{%
-  \cleardoublepage\clearpage\thispagestyle{chapterheading}%
-\null\vfill%Force the content of acknowledment to bottom page 
-\addcontentsline{toc}{chapter}{Halaman Motto}
-}
-
-%------------------------------------------------------------
 % Kata Pengantar
 %------------------------------------------------------------
 \def\katapengantar{%
@@ -758,8 +494,20 @@ Jurusan/Program Studi & : & \@jurusan / \@prodi
 \def\abstrak{%
   \cleardoublepage\thispagestyle{chapterheading}%
   {\parindent \z@ \normalfont
+  
+    \begin{center}	   
+    {\large\textbf{\articlename}} 
+    \end{center}
+    \vspace{0cm}
+    
+    \begin{center}	   
+      {\small\textbf{Oleh: \creator}}\\ \vspace{-0.1cm} 
+    {\small\textbf{\studi}} 
+    \end{center}
+    \vspace{-0.2cm}
+    
    \begin{center}	   
-   {\large\textbf{\abstractname}} 
+   {\small\textbf{\abstractname}} 
    \end{center}
    \vspace{.2cm}
    }
